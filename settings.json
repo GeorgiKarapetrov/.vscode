@@ -1,0 +1,134 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Source Code Pro",
+  "editor.fontSize": 18,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 4,
+  "prettier.requireConfig": false,
+  "prettier.semi": false,
+  //"editor.codeActionsOnSave": { "source.fixAll": true },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "html.format.enable": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[terraform]": {
+    "editor.defaultFormatter": "hashicorp.terraform",
+    "terraform.codelens.enabled": true,
+    //"editor.formatOnSave": false,
+    "editor.tabSize": 2
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "rainbowTags.allowEverywhere": true,
+  "emmet.triggerExpansionOnTab": true,
+  //"javascript.implicitProjectConfig.checkJs": true,
+  "js/ts.implicitProjectConfig.checkJs": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "explorer.confirmDelete": false,
+  "editor.wordWrapColumn": 144,
+  "cSpell.language": "en,en-GB,en-US",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  },
+  "python.linting.pep8Enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.mypyEnabled": true,
+  "python.linting.enabled": true,
+  "python.formatting.provider": "autopep8",
+  "terraform-ls.terraformExecPath": "/home/georgi.karapetrov/.tfenv/bin/terraform",
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "projectManager.git.baseFolders": [
+    "/home/georgi.karapetrov/Documents/projects/"
+  ],
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "fixme",
+    "asd"
+  ],
+  "python.pythonPath": "python3",
+  "code-runner.executorMap": {
+    "python": "/usr/bin/python3"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "git.suggestSmartCommit": false,
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "redhat.telemetry.enabled": false,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp",
+    "editor.formatOnSave": false,
+    "editor.tabSize": 4
+  },
+  "metaGo.surroundPairs": {
+    "type": "object",
+    "default": [
+      ["{", "}"],
+      ["(", ")"],
+      ["[", "]"],
+      ["<", ">"],
+      [
+        "/<(?!/)(?!!)(?!br[\\s>])(?!area[\\s>])(?!base[\\s>])(?!col[\\s>])(?!command[\\s>])(?!embed[\\s>])(?!hr[\\s>])(?!img[\\s>])(?!input[\\s>])(?!keygen[\\s>])(?!link[\\s>])(?!meta[\\s>])(?!param[\\s>])(?!source[\\s>])(?!track[\\s>])(?!wbr[\\s>])((?:.(?!/>))+?)(?<!/)>/ms",
+        "/</(.+?)>/",
+        "t"
+      ]
+    ]
+  },
+  "projectManager.any.maxDepthRecursion": 2,
+  "projectManager.filterOnFullPath": true,
+  "github.copilot.advanced": {},
+  "workbench.colorTheme": "Default High Contrast",
+  "[groovy]": {
+    "editor.defaultFormatter": "NicolasVuillamy.vscode-groovy-lint"
+  },
+  "git.confirmSync": false,
+  "editor.guides.indentation": false,
+  "files.associations": {
+    "*.yaml": "yaml",
+    "*.yml": "yaml"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "syncSettings.additionalFiles": [
+  
+  ],
+  "settings-repository.branch": "master",
+  "settings-repository.repository": "https://github.com/GeorgiKarapetrov/.vscode.git"
+}
