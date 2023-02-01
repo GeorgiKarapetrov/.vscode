@@ -172,7 +172,7 @@
     {
         "identifier": "ms-azuretools.vscode-docker",
         "version": "1.23.3",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-python.isort",
@@ -242,7 +242,7 @@
     {
         "identifier": "streetsidesoftware.code-spell-checker",
         "version": "2.15.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "stylelint.vscode-stylelint",
