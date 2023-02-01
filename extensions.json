@@ -170,6 +170,11 @@
         "enabled": true
     },
     {
+        "identifier": "ms-azuretools.vscode-docker",
+        "version": "1.23.3",
+        "enabled": false
+    },
+    {
         "identifier": "ms-python.isort",
         "version": "2022.8.0",
         "enabled": false
