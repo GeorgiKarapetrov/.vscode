@@ -186,7 +186,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.1.40",
+        "version": "2023.2.10",
         "enabled": false
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker",
-        "version": "2.15.0",
+        "version": "2.16.0",
         "enabled": false
     },
     {
