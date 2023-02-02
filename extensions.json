@@ -170,6 +170,11 @@
         "enabled": true
     },
     {
+        "identifier": "michelemelluso.gitignore",
+        "version": "1.0.1",
+        "enabled": true
+    },
+    {
         "identifier": "ms-azuretools.vscode-docker",
         "version": "1.23.3",
         "enabled": true
