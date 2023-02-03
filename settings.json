@@ -130,5 +130,6 @@
   
   ],
   "settings-repository.branch": "master",
-  "settings-repository.repository": "https://github.com/GeorgiKarapetrov/.vscode.git"
+  "settings-repository.repository": "https://github.com/GeorgiKarapetrov/.vscode.git",
+  "go.lintTool": "golangci-lint"
 }
