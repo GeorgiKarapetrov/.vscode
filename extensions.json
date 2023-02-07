@@ -71,7 +71,7 @@
     },
     {
         "identifier": "dbaeumer.vscode-eslint",
-        "version": "2.2.6",
+        "version": "2.4.0",
         "enabled": false
     },
     {
