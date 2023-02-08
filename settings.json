@@ -53,7 +53,6 @@
   "python.linting.mypyEnabled": true,
   "python.linting.enabled": true,
   "python.formatting.provider": "autopep8",
-  "terraform-ls.terraformExecPath": "/home/georgi.karapetrov/.tfenv/bin/terraform",
   "[dotenv]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
@@ -131,5 +130,6 @@
   ],
   "settings-repository.branch": "master",
   "settings-repository.repository": "https://github.com/GeorgiKarapetrov/.vscode.git",
-  "go.lintTool": "golangci-lint"
+  "go.lintTool": "golangci-lint",
+  "terraform.languageServer.terraform.path": "/home/georgi.karapetrov/.tfenv/bin/terraform"
 }

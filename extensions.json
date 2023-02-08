@@ -127,7 +127,7 @@
     {
         "identifier": "hashicorp.terraform",
         "version": "2.25.2",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "hbenl.vscode-test-explorer",
@@ -242,7 +242,7 @@
     {
         "identifier": "run-at-scale.terraform-doc-snippets",
         "version": "0.6.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker",
