@@ -232,7 +232,7 @@
     {
         "identifier": "ms-vscode-remote.remote-containers",
         "version": "0.275.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-vscode.test-adapter-converter",
