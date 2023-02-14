@@ -127,7 +127,7 @@
     {
         "identifier": "googlecloudtools.cloudcode",
         "version": "1.21.3",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "hashicorp.terraform",
