@@ -187,7 +187,7 @@
     {
         "identifier": "ms-kubernetes-tools.vscode-kubernetes-tools",
         "version": "1.3.11",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-python.isort",
@@ -262,7 +262,7 @@
     {
         "identifier": "run-at-scale.terraform-doc-snippets",
         "version": "0.6.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker",
@@ -317,7 +317,7 @@
     {
         "identifier": "yzhang.markdown-all-in-one",
         "version": "3.5.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ZainChen.json",
