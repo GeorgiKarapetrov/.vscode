@@ -116,7 +116,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.72.8614",
+        "version": "1.73.8685",
         "enabled": false
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "identifier": "Katsute.settings-repository",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "enabled": true
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "identifier": "stylelint.vscode-stylelint",
-        "version": "1.2.3",
+        "version": "1.2.4",
         "enabled": true
     },
     {
