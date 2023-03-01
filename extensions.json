@@ -116,12 +116,12 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.75.8985",
+        "version": "1.76.9071",
         "enabled": false
     },
     {
         "identifier": "golang.go",
-        "version": "0.37.1",
+        "version": "0.38.0",
         "enabled": true
     },
     {
@@ -211,7 +211,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter-keymap",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "enabled": false
     },
     {
