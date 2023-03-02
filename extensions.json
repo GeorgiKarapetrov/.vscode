@@ -196,12 +196,12 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2023.2.0",
+        "version": "2023.4.0",
         "enabled": false
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.2.40",
+        "version": "2023.3.10",
         "enabled": false
     },
     {
