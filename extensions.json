@@ -36,7 +36,7 @@
     },
     {
         "identifier": "bierner.markdown-mermaid",
-        "version": "1.17.4",
+        "version": "1.17.7",
         "enabled": true
     },
     {
@@ -96,7 +96,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "13.3.1",
+        "version": "13.3.2",
         "enabled": true
     },
     {
