@@ -163,7 +163,6 @@
     ".sass": "sass --style expanded",
     ".cu": "cd $dir && nvcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
     ".ring": "ring",
-    ".sml": "cd $dir && sml $fileName",
-    ".go": "cd $dir && go run $fileName"
+    ".sml": "cd $dir && sml $fileName"
   }
 }
