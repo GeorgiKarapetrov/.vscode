@@ -196,7 +196,7 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2023.4.0",
+        "version": "2023.4.1",
         "enabled": false
     },
     {
@@ -206,7 +206,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2023.2.1000592019",
+        "version": "2023.2.1200692131",
         "enabled": false
     },
     {
@@ -266,7 +266,7 @@
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker",
-        "version": "2.19.0",
+        "version": "2.20.0",
         "enabled": false
     },
     {
@@ -276,7 +276,7 @@
     },
     {
         "identifier": "usernamehw.errorlens",
-        "version": "3.7.0",
+        "version": "3.8.0",
         "enabled": true
     },
     {
