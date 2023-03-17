@@ -96,7 +96,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "13.3.2",
+        "version": "13.4.0",
         "enabled": true
     },
     {
@@ -116,7 +116,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.77.9225",
+        "version": "1.78.9758",
         "enabled": false
     },
     {
@@ -221,7 +221,7 @@
     },
     {
         "identifier": "ms-toolsai.vscode-jupyter-cell-tags",
-        "version": "0.1.6",
+        "version": "0.1.7",
         "enabled": false
     },
     {
@@ -266,7 +266,7 @@
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker",
-        "version": "2.20.0",
+        "version": "2.20.1",
         "enabled": false
     },
     {
