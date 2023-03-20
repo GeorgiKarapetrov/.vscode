@@ -221,7 +221,7 @@
     },
     {
         "identifier": "ms-toolsai.vscode-jupyter-cell-tags",
-        "version": "0.1.7",
+        "version": "0.1.8",
         "enabled": false
     },
     {
@@ -256,7 +256,7 @@
     },
     {
         "identifier": "redhat.vscode-yaml",
-        "version": "1.12.1",
+        "version": "1.12.2",
         "enabled": true
     },
     {
@@ -266,7 +266,7 @@
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker",
-        "version": "2.20.1",
+        "version": "2.20.3",
         "enabled": false
     },
     {
