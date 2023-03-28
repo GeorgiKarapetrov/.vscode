@@ -201,7 +201,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.3.20",
+        "version": "2023.3.30",
         "enabled": false
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "identifier": "yzhang.markdown-all-in-one",
-        "version": "3.5.0",
+        "version": "3.5.1",
         "enabled": false
     },
     {
