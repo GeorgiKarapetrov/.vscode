@@ -115,6 +115,11 @@
         "enabled": true
     },
     {
+        "identifier": "foxundermoon.shell-format",
+        "version": "7.2.5",
+        "enabled": false
+    },
+    {
         "identifier": "GitHub.copilot",
         "version": "1.78.9758",
         "enabled": false
