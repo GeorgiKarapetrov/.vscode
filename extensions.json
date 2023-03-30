@@ -36,7 +36,7 @@
     },
     {
         "identifier": "bierner.markdown-mermaid",
-        "version": "1.17.7",
+        "version": "1.18.0",
         "enabled": true
     },
     {
@@ -206,7 +206,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.3.30",
+        "version": "2023.3.40",
         "enabled": false
     },
     {
