@@ -240,6 +240,11 @@
         "enabled": false
     },
     {
+        "identifier": "ms-vscode.makefile-tools",
+        "version": "0.6.0",
+        "enabled": true
+    },
+    {
         "identifier": "ms-vscode.test-adapter-converter",
         "version": "0.1.7",
         "enabled": true
@@ -271,7 +276,7 @@
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker",
-        "version": "2.20.3",
+        "version": "2.20.4",
         "enabled": false
     },
     {
