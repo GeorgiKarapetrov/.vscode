@@ -164,5 +164,8 @@
     ".cu": "cd $dir && nvcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
     ".ring": "ring",
     ".sml": "cd $dir && sml $fileName"
+  },
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
   }
 }
