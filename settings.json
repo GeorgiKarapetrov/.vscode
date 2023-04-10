@@ -167,5 +167,8 @@
   },
   "[go]": {
     "editor.defaultFormatter": "golang.go"
-  }
+  },
+  "errorLens.excludeBySource": [
+    "compiler(UndeclaredName)"
+  ]
 }
