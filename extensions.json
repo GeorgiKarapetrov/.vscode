@@ -36,7 +36,7 @@
     },
     {
         "identifier": "bierner.markdown-mermaid",
-        "version": "1.18.0",
+        "version": "1.18.1",
         "enabled": true
     },
     {
@@ -301,7 +301,7 @@
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",
-        "version": "12.2.0",
+        "version": "12.3.0",
         "enabled": false
     },
     {
