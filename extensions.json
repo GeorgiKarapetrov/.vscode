@@ -290,11 +290,6 @@
         "enabled": true
     },
     {
-        "identifier": "VisualStudioExptTeam.intellicode-api-usage-examples",
-        "version": "0.2.7",
-        "enabled": false
-    },
-    {
         "identifier": "VisualStudioExptTeam.vscodeintellicode",
         "version": "1.2.30",
         "enabled": false
