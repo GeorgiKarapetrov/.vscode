@@ -10,6 +10,11 @@
         "enabled": true
     },
     {
+        "identifier": "azemoh.one-monokai",
+        "version": "0.5.0",
+        "enabled": false
+    },
+    {
         "identifier": "batisteo.vscode-django",
         "version": "1.10.0",
         "enabled": false
@@ -121,7 +126,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.79.10634",
+        "version": "1.82.15",
         "enabled": false
     },
     {
@@ -211,7 +216,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2023.3.1000892223",
+        "version": "2023.3.1201040234",
         "enabled": false
     },
     {
@@ -250,6 +255,11 @@
         "enabled": true
     },
     {
+        "identifier": "nigelvm.monokai-luminous",
+        "version": "0.3.1",
+        "enabled": false
+    },
+    {
         "identifier": "njpwerner.autodocstring",
         "version": "0.6.1",
         "enabled": false
@@ -272,6 +282,11 @@
     {
         "identifier": "run-at-scale.terraform-doc-snippets",
         "version": "0.6.0",
+        "enabled": false
+    },
+    {
+        "identifier": "s3gf4ult.monokai-vibrant",
+        "version": "0.5.3",
         "enabled": false
     },
     {

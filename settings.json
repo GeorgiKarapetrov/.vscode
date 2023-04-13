@@ -114,7 +114,6 @@
   "projectManager.any.maxDepthRecursion": 2,
   "projectManager.filterOnFullPath": true,
   "github.copilot.advanced": {},
-  "workbench.colorTheme": "Default High Contrast",
   "[groovy]": {
     "editor.defaultFormatter": "NicolasVuillamy.vscode-groovy-lint"
   },
@@ -170,5 +169,6 @@
   },
   "errorLens.excludeBySource": [
     "compiler(UndeclaredName)"
-  ]
+  ],
+  "workbench.colorTheme": "Default High Contrast"
 }
