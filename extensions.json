@@ -12,7 +12,7 @@
     {
         "identifier": "azemoh.one-monokai",
         "version": "0.5.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "batisteo.vscode-django",
@@ -46,7 +46,7 @@
     },
     {
         "identifier": "bierner.markdown-preview-github-styles",
-        "version": "1.0.1",
+        "version": "2.0.0",
         "enabled": true
     },
     {
@@ -136,7 +136,7 @@
     },
     {
         "identifier": "googlecloudtools.cloudcode",
-        "version": "1.21.3",
+        "version": "1.21.4",
         "enabled": false
     },
     {
@@ -191,7 +191,7 @@
     },
     {
         "identifier": "ms-azuretools.vscode-docker",
-        "version": "1.24.0",
+        "version": "1.25.0",
         "enabled": false
     },
     {
@@ -206,12 +206,12 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2023.6.0",
+        "version": "2023.6.1",
         "enabled": false
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.4.10",
+        "version": "2023.4.20",
         "enabled": false
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.288.0",
+        "version": "0.288.1",
         "enabled": false
     },
     {
@@ -257,7 +257,7 @@
     {
         "identifier": "nigelvm.monokai-luminous",
         "version": "0.3.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "njpwerner.autodocstring",
@@ -287,7 +287,7 @@
     {
         "identifier": "s3gf4ult.monokai-vibrant",
         "version": "0.5.3",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker",
