@@ -106,7 +106,7 @@
     },
     {
         "identifier": "esbenp.prettier-vscode",
-        "version": "9.10.4",
+        "version": "9.12.0",
         "enabled": true
     },
     {
@@ -126,7 +126,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.82.15",
+        "version": "1.83.41",
         "enabled": false
     },
     {
@@ -246,7 +246,7 @@
     },
     {
         "identifier": "ms-vscode.makefile-tools",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "enabled": true
     },
     {
@@ -311,7 +311,7 @@
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",
-        "version": "12.3.0",
+        "version": "12.4.0",
         "enabled": false
     },
     {
