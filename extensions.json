@@ -125,6 +125,11 @@
         "enabled": true
     },
     {
+        "identifier": "foxx1337.autoscrolldown",
+        "version": "1.2.1",
+        "enabled": true
+    },
+    {
         "identifier": "GitHub.copilot",
         "version": "1.84.51",
         "enabled": false
