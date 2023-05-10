@@ -187,7 +187,7 @@
     {
         "identifier": "lizebang.bash-extension-pack",
         "version": "0.0.4",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "mads-hartmann.bash-ide-vscode",
@@ -267,7 +267,7 @@
     {
         "identifier": "ms-vscode.powershell",
         "version": "2023.5.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.test-adapter-converter",
@@ -302,17 +302,17 @@
     {
         "identifier": "Remisa.shellman",
         "version": "5.6.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "rogalmic.bash-debug",
         "version": "0.3.9",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "rpinski.shebang-snippets",
         "version": "0.1.4",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "run-at-scale.terraform-doc-snippets",
