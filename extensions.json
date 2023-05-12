@@ -101,7 +101,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "13.5.0",
+        "version": "13.6.0",
         "enabled": true
     },
     {
@@ -146,7 +146,7 @@
     },
     {
         "identifier": "hashicorp.terraform",
-        "version": "2.26.0",
+        "version": "2.26.1",
         "enabled": false
     },
     {
