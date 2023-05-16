@@ -57,7 +57,7 @@
     {
         "identifier": "Blackboxapp.blackbox",
         "version": "0.10.83",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "christian-kohler.path-intellisense",
@@ -137,12 +137,12 @@
     {
         "identifier": "genieai.chatgpt-vscode",
         "version": "0.0.8",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "GitHub.copilot",
         "version": "1.86.82",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "golang.go",
@@ -347,7 +347,7 @@
     {
         "identifier": "TabNine.tabnine-vscode",
         "version": "3.6.46",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "Tim-Koehler.helm-intellisense",
