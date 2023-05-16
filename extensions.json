@@ -57,7 +57,7 @@
     {
         "identifier": "Blackboxapp.blackbox",
         "version": "0.10.83",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "christian-kohler.path-intellisense",
@@ -132,6 +132,11 @@
     {
         "identifier": "foxx1337.autoscrolldown",
         "version": "1.2.1",
+        "enabled": true
+    },
+    {
+        "identifier": "genieai.chatgpt-vscode",
+        "version": "0.0.8",
         "enabled": true
     },
     {
@@ -362,7 +367,7 @@
     {
         "identifier": "VisualStudioExptTeam.vscodeintellicode",
         "version": "1.2.30",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",
