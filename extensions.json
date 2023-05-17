@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "0.10.83",
+        "version": "0.10.87",
         "enabled": true
     },
     {
@@ -216,7 +216,7 @@
     },
     {
         "identifier": "ms-azuretools.vscode-docker",
-        "version": "1.25.0",
+        "version": "1.25.1",
         "enabled": false
     },
     {
