@@ -145,6 +145,11 @@
         "enabled": false
     },
     {
+        "identifier": "GitLab.gitlab-workflow",
+        "version": "3.62.0",
+        "enabled": true
+    },
+    {
         "identifier": "golang.go",
         "version": "0.38.0",
         "enabled": true
