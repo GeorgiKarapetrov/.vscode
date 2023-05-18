@@ -1,10 +1,5 @@
 [
     {
-        "identifier": "Blackboxapp.blackbox",
-        "version": "0.10.89",
-        "enabled": true
-    },
-    {
         "identifier": "aaron-bond.better-comments",
         "version": "3.0.2",
         "enabled": true
@@ -57,6 +52,11 @@
     {
         "identifier": "bierner.markdown-yaml-preamble",
         "version": "0.1.0",
+        "enabled": true
+    },
+    {
+        "identifier": "Blackboxapp.blackbox",
+        "version": "0.10.89",
         "enabled": true
     },
     {
