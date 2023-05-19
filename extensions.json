@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "0.10.89",
+        "version": "0.10.90",
         "enabled": true
     },
     {
@@ -146,7 +146,7 @@
     },
     {
         "identifier": "GitLab.gitlab-workflow",
-        "version": "3.62.0",
+        "version": "3.63.0",
         "enabled": true
     },
     {
