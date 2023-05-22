@@ -342,7 +342,7 @@
     {
         "identifier": "streetsidesoftware.code-spell-checker",
         "version": "2.20.4",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "stylelint.vscode-stylelint",
