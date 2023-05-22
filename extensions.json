@@ -12,7 +12,7 @@
     {
         "identifier": "azemoh.one-monokai",
         "version": "0.5.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "batisteo.vscode-django",
@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "0.10.90",
+        "version": "0.10.93",
         "enabled": true
     },
     {
@@ -82,12 +82,12 @@
     {
         "identifier": "dbaeumer.vscode-eslint",
         "version": "2.4.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "donjayamanne.git-extension-pack",
         "version": "0.1.3",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "donjayamanne.githistory",
@@ -127,7 +127,7 @@
     {
         "identifier": "foxundermoon.shell-format",
         "version": "7.2.5",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "foxx1337.autoscrolldown",
@@ -177,7 +177,7 @@
     {
         "identifier": "idleberg.icon-fonts",
         "version": "2.5.4",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "johnpapa.vscode-peacock",
@@ -187,7 +187,7 @@
     {
         "identifier": "kamikillerto.vscode-colorize",
         "version": "0.11.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "Katsute.settings-repository",
@@ -202,12 +202,12 @@
     {
         "identifier": "lizebang.bash-extension-pack",
         "version": "0.0.4",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "mads-hartmann.bash-ide-vscode",
         "version": "1.37.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "mhutchie.git-graph",
@@ -282,7 +282,7 @@
     {
         "identifier": "ms-vscode.powershell",
         "version": "2023.5.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-vscode.test-adapter-converter",
@@ -317,17 +317,17 @@
     {
         "identifier": "Remisa.shellman",
         "version": "5.6.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "rogalmic.bash-debug",
         "version": "0.3.9",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "rpinski.shebang-snippets",
         "version": "0.1.4",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "run-at-scale.terraform-doc-snippets",
@@ -337,12 +337,12 @@
     {
         "identifier": "s3gf4ult.monokai-vibrant",
         "version": "0.5.3",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker",
         "version": "2.20.4",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "stylelint.vscode-stylelint",
@@ -362,7 +362,7 @@
     {
         "identifier": "timonwong.shellcheck",
         "version": "0.32.5",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "usernamehw.errorlens",
@@ -377,7 +377,7 @@
     {
         "identifier": "vscode-icons-team.vscode-icons",
         "version": "12.4.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "waderyan.gitblame",
@@ -402,7 +402,7 @@
     {
         "identifier": "yzhang.markdown-all-in-one",
         "version": "3.5.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ZainChen.json",
