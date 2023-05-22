@@ -171,14 +171,5 @@
     "compiler(UndeclaredName)"
   ],
   "workbench.colorTheme": "Default High Contrast",
-"tabnine.experimentalAutoImports": true,
-"workbench.startupEditor": "none",
-"cSpell.userWords": [
-  "CICD",
-  "Concentrix",
-  "Georgi",
-  "Karapetrov",
-  "Sciant",
-  "Sokoban"
-]
+  "tabnine.experimentalAutoImports": true
 }
