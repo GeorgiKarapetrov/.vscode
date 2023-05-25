@@ -9,7 +9,6 @@
   "prettier.semi": false,
   //"editor.codeActionsOnSave": { "source.fixAll": true },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnPaste": true,
   "editor.formatOnType": true,
   "html.format.enable": false,
   "[html]": {
