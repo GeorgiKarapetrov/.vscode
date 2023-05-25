@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "0.10.93",
+        "version": "0.10.95",
         "enabled": false
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "identifier": "esbenp.prettier-vscode",
-        "version": "9.12.0",
+        "version": "9.13.0",
         "enabled": true
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.5.30",
+        "version": "2023.5.40",
         "enabled": false
     },
     {
