@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.10",
+        "version": "1.0.16",
         "enabled": false
     },
     {
@@ -76,7 +76,7 @@
     },
     {
         "identifier": "DavidAnson.vscode-markdownlint",
-        "version": "0.50.0",
+        "version": "0.51.0",
         "enabled": true
     },
     {
@@ -151,12 +151,12 @@
     },
     {
         "identifier": "golang.go",
-        "version": "0.38.0",
+        "version": "0.39.0",
         "enabled": true
     },
     {
         "identifier": "googlecloudtools.cloudcode",
-        "version": "1.21.6",
+        "version": "1.21.7",
         "enabled": false
     },
     {
@@ -236,7 +236,7 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2023.10.0",
+        "version": "2023.10.1",
         "enabled": false
     },
     {
@@ -351,7 +351,7 @@
     },
     {
         "identifier": "TabNine.tabnine-vscode",
-        "version": "3.6.55",
+        "version": "3.6.56",
         "enabled": false
     },
     {
