@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.16",
+        "version": "1.0.21",
         "enabled": false
     },
     {
@@ -106,7 +106,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "13.6.0",
+        "version": "14.0.0",
         "enabled": false
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.6.10",
+        "version": "2023.6.20",
         "enabled": false
     },
     {
