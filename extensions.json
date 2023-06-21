@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.25",
+        "version": "1.0.30",
         "enabled": false
     },
     {
@@ -106,12 +106,12 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "14.0.0",
+        "version": "14.0.1",
         "enabled": false
     },
     {
         "identifier": "esbenp.prettier-vscode",
-        "version": "9.13.0",
+        "version": "9.15.0",
         "enabled": true
     },
     {
@@ -141,7 +141,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.89.156",
+        "version": "1.90.174",
         "enabled": false
     },
     {
