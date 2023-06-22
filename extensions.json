@@ -41,7 +41,7 @@
     },
     {
         "identifier": "bierner.markdown-mermaid",
-        "version": "1.18.1",
+        "version": "1.19.0",
         "enabled": true
     },
     {
@@ -141,7 +141,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.90.174",
+        "version": "1.92.177",
         "enabled": false
     },
     {
@@ -241,12 +241,12 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.6.20",
+        "version": "2023.6.30",
         "enabled": false
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2023.5.1001582324",
+        "version": "2023.5.1101742258",
         "enabled": false
     },
     {
@@ -277,7 +277,7 @@
     {
         "identifier": "ms-vscode.makefile-tools",
         "version": "0.7.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.powershell",
@@ -381,7 +381,7 @@
     },
     {
         "identifier": "waderyan.gitblame",
-        "version": "10.2.0",
+        "version": "10.2.1",
         "enabled": false
     },
     {
