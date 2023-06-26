@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.31",
+        "version": "1.0.32",
         "enabled": false
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "identifier": "waderyan.gitblame",
-        "version": "10.2.1",
+        "version": "10.3.0",
         "enabled": false
     },
     {
