@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.32",
+        "version": "1.0.34",
         "enabled": false
     },
     {
@@ -141,12 +141,12 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.92.177",
+        "version": "1.93.189",
         "enabled": false
     },
     {
         "identifier": "GitLab.gitlab-workflow",
-        "version": "3.67.0",
+        "version": "3.68.0",
         "enabled": false
     },
     {
@@ -156,7 +156,7 @@
     },
     {
         "identifier": "googlecloudtools.cloudcode",
-        "version": "1.21.7",
+        "version": "1.21.8",
         "enabled": false
     },
     {
