@@ -241,7 +241,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.6.30",
+        "version": "2023.6.40",
         "enabled": false
     },
     {
@@ -351,7 +351,7 @@
     },
     {
         "identifier": "TabNine.tabnine-vscode",
-        "version": "3.6.60",
+        "version": "3.6.61",
         "enabled": false
     },
     {
