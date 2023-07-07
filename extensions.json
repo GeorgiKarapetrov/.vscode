@@ -227,7 +227,7 @@
     {
         "identifier": "ms-kubernetes-tools.vscode-kubernetes-tools",
         "version": "1.3.13",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-python.isort",
