@@ -170,5 +170,6 @@
     "compiler(UndeclaredName)"
   ],
   "workbench.colorTheme": "Default High Contrast",
-  "tabnine.experimentalAutoImports": true
+  "tabnine.experimentalAutoImports": true,
+  "helm-intellisense.lintFileOnSave": false
 }
