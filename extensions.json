@@ -246,7 +246,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2023.5.1101742258",
+        "version": "2023.6.1001861915",
         "enabled": false
     },
     {
@@ -256,7 +256,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter-renderers",
-        "version": "1.0.15",
+        "version": "1.0.17",
         "enabled": false
     },
     {
