@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.42",
+        "version": "1.0.44",
         "enabled": false
     },
     {
@@ -246,7 +246,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2023.6.1001861915",
+        "version": "2023.6.1101941928",
         "enabled": true
     },
     {
@@ -356,7 +356,7 @@
     },
     {
         "identifier": "TabNine.tabnine-vscode",
-        "version": "3.6.69",
+        "version": "3.6.72",
         "enabled": false
     },
     {
@@ -386,7 +386,7 @@
     },
     {
         "identifier": "waderyan.gitblame",
-        "version": "10.3.0",
+        "version": "10.4.0",
         "enabled": false
     },
     {
