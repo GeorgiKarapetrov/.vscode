@@ -146,7 +146,7 @@
     },
     {
         "identifier": "GitLab.gitlab-workflow",
-        "version": "3.68.0",
+        "version": "3.68.2",
         "enabled": false
     },
     {
