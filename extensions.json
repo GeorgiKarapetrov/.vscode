@@ -141,7 +141,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.95.233",
+        "version": "1.96.255",
         "enabled": false
     },
     {
@@ -231,7 +231,7 @@
     },
     {
         "identifier": "ms-python.isort",
-        "version": "2023.10.0",
+        "version": "2023.10.1",
         "enabled": false
     },
     {
@@ -241,7 +241,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.7.10",
+        "version": "2023.7.20",
         "enabled": false
     },
     {
