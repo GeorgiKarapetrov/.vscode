@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.44",
+        "version": "1.0.47",
         "enabled": false
     },
     {
@@ -106,7 +106,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "14.0.1",
+        "version": "14.1.1",
         "enabled": false
     },
     {
@@ -141,22 +141,22 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.96.255",
+        "version": "1.97.270",
         "enabled": false
     },
     {
         "identifier": "GitLab.gitlab-workflow",
-        "version": "3.68.2",
+        "version": "3.68.3",
         "enabled": false
     },
     {
         "identifier": "golang.go",
-        "version": "0.39.0",
+        "version": "0.39.1",
         "enabled": true
     },
     {
         "identifier": "googlecloudtools.cloudcode",
-        "version": "1.21.8",
+        "version": "1.22.0",
         "enabled": false
     },
     {
@@ -206,7 +206,7 @@
     },
     {
         "identifier": "mads-hartmann.bash-ide-vscode",
-        "version": "1.37.0",
+        "version": "1.39.0",
         "enabled": true
     },
     {
@@ -221,7 +221,7 @@
     },
     {
         "identifier": "ms-azuretools.vscode-docker",
-        "version": "1.25.2",
+        "version": "1.26.0",
         "enabled": false
     },
     {
@@ -301,7 +301,7 @@
     },
     {
         "identifier": "PKief.material-icon-theme",
-        "version": "4.28.0",
+        "version": "4.29.0",
         "enabled": true
     },
     {
@@ -356,7 +356,7 @@
     },
     {
         "identifier": "TabNine.tabnine-vscode",
-        "version": "3.6.72",
+        "version": "3.6.74",
         "enabled": false
     },
     {
@@ -366,12 +366,12 @@
     },
     {
         "identifier": "timonwong.shellcheck",
-        "version": "0.32.6",
+        "version": "0.33.0",
         "enabled": true
     },
     {
         "identifier": "usernamehw.errorlens",
-        "version": "3.11.1",
+        "version": "3.12.0",
         "enabled": false
     },
     {
