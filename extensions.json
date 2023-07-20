@@ -222,7 +222,7 @@
     {
         "identifier": "ms-azuretools.vscode-docker",
         "version": "1.26.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-kubernetes-tools.vscode-kubernetes-tools",
@@ -241,7 +241,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.7.20",
+        "version": "2023.7.30",
         "enabled": false
     },
     {
