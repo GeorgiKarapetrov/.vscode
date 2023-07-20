@@ -222,12 +222,12 @@
     {
         "identifier": "ms-azuretools.vscode-docker",
         "version": "1.26.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-kubernetes-tools.vscode-kubernetes-tools",
         "version": "1.3.13",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-python.isort",
