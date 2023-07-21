@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.47",
+        "version": "1.0.48",
         "enabled": false
     },
     {
@@ -141,12 +141,12 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.97.270",
+        "version": "1.98.275",
         "enabled": false
     },
     {
         "identifier": "GitLab.gitlab-workflow",
-        "version": "3.68.3",
+        "version": "3.68.4",
         "enabled": false
     },
     {
@@ -227,7 +227,7 @@
     {
         "identifier": "ms-kubernetes-tools.vscode-kubernetes-tools",
         "version": "1.3.13",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-python.isort",
