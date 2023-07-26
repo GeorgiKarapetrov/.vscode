@@ -170,6 +170,11 @@
         "enabled": false
     },
     {
+        "identifier": "honnamkuan.golang-snippets",
+        "version": "1.2.0",
+        "enabled": true
+    },
+    {
         "identifier": "huizhou.githd",
         "version": "2.3.3",
         "enabled": true
@@ -345,6 +350,11 @@
         "enabled": false
     },
     {
+        "identifier": "snippington.snp-go-basic",
+        "version": "0.1.0",
+        "enabled": true
+    },
+    {
         "identifier": "streetsidesoftware.code-spell-checker",
         "version": "2.20.5",
         "enabled": false
@@ -367,6 +377,11 @@
     {
         "identifier": "timonwong.shellcheck",
         "version": "0.33.0",
+        "enabled": true
+    },
+    {
+        "identifier": "UmarMarufMutaqin.go-snippets-simple",
+        "version": "0.9.3",
         "enabled": true
     },
     {
@@ -412,7 +427,7 @@
     {
         "identifier": "ZainChen.json",
         "version": "2.0.2",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ziyasal.vscode-open-in-github",
@@ -423,5 +438,10 @@
         "identifier": "zokugun.cron-tasks",
         "version": "0.1.2",
         "enabled": false
+    },
+    {
+        "identifier": "zsh.go-snippets",
+        "version": "0.0.4",
+        "enabled": true
     }
 ]
