@@ -7,7 +7,7 @@
     {
         "identifier": "alefragnani.project-manager",
         "version": "12.7.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "azemoh.one-monokai",
@@ -82,7 +82,7 @@
     {
         "identifier": "dbaeumer.vscode-eslint",
         "version": "2.4.2",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "donjayamanne.git-extension-pack",
