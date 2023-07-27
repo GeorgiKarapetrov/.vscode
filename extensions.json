@@ -141,12 +141,12 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.98.275",
+        "version": "1.99.289",
         "enabled": false
     },
     {
         "identifier": "GitLab.gitlab-workflow",
-        "version": "3.69.0",
+        "version": "3.70.0",
         "enabled": false
     },
     {
@@ -246,7 +246,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.7.30",
+        "version": "2023.7.40",
         "enabled": false
     },
     {
