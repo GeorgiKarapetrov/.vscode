@@ -111,7 +111,7 @@
     },
     {
         "identifier": "esbenp.prettier-vscode",
-        "version": "9.19.0",
+        "version": "10.0.0",
         "enabled": true
     },
     {
