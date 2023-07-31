@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.51",
+        "version": "1.0.52",
         "enabled": false
     },
     {
@@ -196,7 +196,7 @@
     },
     {
         "identifier": "Katsute.settings-repository",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "enabled": true
     },
     {
