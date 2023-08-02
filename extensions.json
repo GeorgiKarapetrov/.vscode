@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.52",
+        "version": "1.0.53",
         "enabled": false
     },
     {
@@ -361,7 +361,7 @@
     },
     {
         "identifier": "TabNine.tabnine-vscode",
-        "version": "3.6.77",
+        "version": "3.6.78",
         "enabled": false
     },
     {
