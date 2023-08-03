@@ -56,7 +56,7 @@
     },
     {
         "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.53",
+        "version": "1.0.55",
         "enabled": false
     },
     {
@@ -146,7 +146,7 @@
     },
     {
         "identifier": "GitLab.gitlab-workflow",
-        "version": "3.71.0",
+        "version": "3.72.1",
         "enabled": false
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "identifier": "hashicorp.terraform",
-        "version": "2.27.0",
+        "version": "2.27.1",
         "enabled": false
     },
     {
@@ -246,7 +246,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.7.40",
+        "version": "2023.8.10",
         "enabled": false
     },
     {
@@ -361,7 +361,7 @@
     },
     {
         "identifier": "TabNine.tabnine-vscode",
-        "version": "3.6.78",
+        "version": "3.6.79",
         "enabled": false
     },
     {
