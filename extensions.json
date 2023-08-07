@@ -252,7 +252,7 @@
     {
         "identifier": "ms-toolsai.jupyter",
         "version": "2023.7.1002162226",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-toolsai.jupyter-keymap",
@@ -387,7 +387,7 @@
     {
         "identifier": "VisualStudioExptTeam.intellicode-api-usage-examples",
         "version": "0.2.7",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "VisualStudioExptTeam.vscodeintellicode",
