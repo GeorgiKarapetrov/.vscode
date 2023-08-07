@@ -5,21 +5,6 @@
         "enabled": true
     },
     {
-        "identifier": "alefragnani.project-manager",
-        "version": "12.7.0",
-        "enabled": false
-    },
-    {
-        "identifier": "azemoh.one-monokai",
-        "version": "0.5.0",
-        "enabled": false
-    },
-    {
-        "identifier": "batisteo.vscode-django",
-        "version": "1.10.0",
-        "enabled": false
-    },
-    {
         "identifier": "bierner.github-markdown-preview",
         "version": "0.3.0",
         "enabled": true
@@ -55,11 +40,6 @@
         "enabled": true
     },
     {
-        "identifier": "Blackboxapp.blackbox",
-        "version": "1.0.61",
-        "enabled": false
-    },
-    {
         "identifier": "christian-kohler.path-intellisense",
         "version": "2.8.4",
         "enabled": true
@@ -80,34 +60,9 @@
         "enabled": true
     },
     {
-        "identifier": "dbaeumer.vscode-eslint",
-        "version": "2.4.2",
-        "enabled": false
-    },
-    {
-        "identifier": "donjayamanne.git-extension-pack",
-        "version": "0.1.3",
-        "enabled": false
-    },
-    {
         "identifier": "donjayamanne.githistory",
         "version": "0.6.20",
         "enabled": true
-    },
-    {
-        "identifier": "donjayamanne.python-environment-manager",
-        "version": "1.0.4",
-        "enabled": false
-    },
-    {
-        "identifier": "donjayamanne.python-extension-pack",
-        "version": "1.7.0",
-        "enabled": false
-    },
-    {
-        "identifier": "eamodio.gitlens",
-        "version": "14.2.0",
-        "enabled": false
     },
     {
         "identifier": "esbenp.prettier-vscode",
@@ -135,39 +90,9 @@
         "enabled": true
     },
     {
-        "identifier": "genieai.chatgpt-vscode",
-        "version": "0.0.8",
-        "enabled": false
-    },
-    {
-        "identifier": "GitHub.copilot",
-        "version": "1.101.317",
-        "enabled": false
-    },
-    {
-        "identifier": "GitLab.gitlab-workflow",
-        "version": "3.72.3",
-        "enabled": false
-    },
-    {
         "identifier": "golang.go",
         "version": "0.39.1",
         "enabled": true
-    },
-    {
-        "identifier": "googlecloudtools.cloudcode",
-        "version": "1.22.0",
-        "enabled": false
-    },
-    {
-        "identifier": "hashicorp.terraform",
-        "version": "2.27.1",
-        "enabled": false
-    },
-    {
-        "identifier": "hbenl.vscode-test-explorer",
-        "version": "2.21.1",
-        "enabled": false
     },
     {
         "identifier": "honnamkuan.golang-snippets",
@@ -200,11 +125,6 @@
         "enabled": true
     },
     {
-        "identifier": "KevinRose.vsc-python-indent",
-        "version": "1.18.0",
-        "enabled": false
-    },
-    {
         "identifier": "lizebang.bash-extension-pack",
         "version": "0.0.4",
         "enabled": true
@@ -215,39 +135,9 @@
         "enabled": true
     },
     {
-        "identifier": "mhutchie.git-graph",
-        "version": "1.30.0",
-        "enabled": false
-    },
-    {
         "identifier": "michelemelluso.gitignore",
         "version": "1.0.1",
         "enabled": true
-    },
-    {
-        "identifier": "ms-azuretools.vscode-docker",
-        "version": "1.26.0",
-        "enabled": false
-    },
-    {
-        "identifier": "ms-kubernetes-tools.vscode-kubernetes-tools",
-        "version": "1.3.13",
-        "enabled": false
-    },
-    {
-        "identifier": "ms-python.isort",
-        "version": "2023.10.1",
-        "enabled": false
-    },
-    {
-        "identifier": "ms-python.python",
-        "version": "2023.14.0",
-        "enabled": false
-    },
-    {
-        "identifier": "ms-python.vscode-pylance",
-        "version": "2023.8.10",
-        "enabled": false
     },
     {
         "identifier": "ms-toolsai.jupyter",
@@ -255,49 +145,9 @@
         "enabled": true
     },
     {
-        "identifier": "ms-toolsai.jupyter-keymap",
-        "version": "1.1.2",
-        "enabled": false
-    },
-    {
-        "identifier": "ms-toolsai.jupyter-renderers",
-        "version": "1.0.17",
-        "enabled": false
-    },
-    {
-        "identifier": "ms-toolsai.vscode-jupyter-cell-tags",
-        "version": "0.1.8",
-        "enabled": false
-    },
-    {
-        "identifier": "ms-toolsai.vscode-jupyter-slideshow",
-        "version": "0.1.5",
-        "enabled": false
-    },
-    {
-        "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.304.0",
-        "enabled": false
-    },
-    {
         "identifier": "ms-vscode.makefile-tools",
         "version": "0.7.0",
         "enabled": true
-    },
-    {
-        "identifier": "ms-vscode.test-adapter-converter",
-        "version": "0.1.8",
-        "enabled": false
-    },
-    {
-        "identifier": "nigelvm.monokai-luminous",
-        "version": "0.3.1",
-        "enabled": false
-    },
-    {
-        "identifier": "njpwerner.autodocstring",
-        "version": "0.6.1",
-        "enabled": false
     },
     {
         "identifier": "PKief.material-icon-theme",
@@ -330,44 +180,9 @@
         "enabled": true
     },
     {
-        "identifier": "run-at-scale.terraform-doc-snippets",
-        "version": "0.6.0",
-        "enabled": false
-    },
-    {
-        "identifier": "s3gf4ult.monokai-vibrant",
-        "version": "0.5.3",
-        "enabled": false
-    },
-    {
-        "identifier": "sandipchitale.vscode-kubernetes-helm-extras",
-        "version": "1.0.46",
-        "enabled": false
-    },
-    {
         "identifier": "snippington.snp-go-basic",
         "version": "0.1.0",
         "enabled": true
-    },
-    {
-        "identifier": "streetsidesoftware.code-spell-checker",
-        "version": "2.20.5",
-        "enabled": false
-    },
-    {
-        "identifier": "stylelint.vscode-stylelint",
-        "version": "1.2.4",
-        "enabled": false
-    },
-    {
-        "identifier": "TabNine.tabnine-vscode",
-        "version": "3.6.80",
-        "enabled": false
-    },
-    {
-        "identifier": "Tim-Koehler.helm-intellisense",
-        "version": "0.14.3",
-        "enabled": false
     },
     {
         "identifier": "timonwong.shellcheck",
@@ -380,34 +195,9 @@
         "enabled": true
     },
     {
-        "identifier": "usernamehw.errorlens",
-        "version": "3.12.0",
-        "enabled": false
-    },
-    {
-        "identifier": "VisualStudioExptTeam.intellicode-api-usage-examples",
-        "version": "0.2.7",
-        "enabled": false
-    },
-    {
-        "identifier": "VisualStudioExptTeam.vscodeintellicode",
-        "version": "1.2.30",
-        "enabled": false
-    },
-    {
         "identifier": "vscode-icons-team.vscode-icons",
         "version": "12.5.0",
         "enabled": true
-    },
-    {
-        "identifier": "waderyan.gitblame",
-        "version": "10.4.0",
-        "enabled": false
-    },
-    {
-        "identifier": "wholroyd.jinja",
-        "version": "0.0.8",
-        "enabled": false
     },
     {
         "identifier": "wmaurer.change-case",
@@ -425,19 +215,9 @@
         "enabled": true
     },
     {
-        "identifier": "ZainChen.json",
-        "version": "2.0.2",
-        "enabled": false
-    },
-    {
         "identifier": "ziyasal.vscode-open-in-github",
         "version": "1.3.6",
         "enabled": true
-    },
-    {
-        "identifier": "zokugun.cron-tasks",
-        "version": "0.1.2",
-        "enabled": false
     },
     {
         "identifier": "zsh.go-snippets",
