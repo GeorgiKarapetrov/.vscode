@@ -152,7 +152,7 @@
     {
         "identifier": "PKief.material-icon-theme",
         "version": "4.29.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "quicktype.quicktype",
