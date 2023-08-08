@@ -47,7 +47,7 @@
     {
         "identifier": "chrmarti.regex",
         "version": "0.4.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "codezombiech.gitignore",
@@ -142,7 +142,7 @@
     {
         "identifier": "ms-toolsai.jupyter",
         "version": "2023.7.1002162226",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-vscode.makefile-tools",
