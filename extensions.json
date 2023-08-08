@@ -140,19 +140,9 @@
         "enabled": true
     },
     {
-        "identifier": "ms-toolsai.jupyter",
-        "version": "2023.7.1002162226",
-        "enabled": false
-    },
-    {
         "identifier": "ms-vscode.makefile-tools",
         "version": "0.7.0",
         "enabled": true
-    },
-    {
-        "identifier": "PKief.material-icon-theme",
-        "version": "4.29.0",
-        "enabled": false
     },
     {
         "identifier": "quicktype.quicktype",
