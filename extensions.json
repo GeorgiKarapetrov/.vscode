@@ -116,7 +116,7 @@
     },
     {
         "identifier": "Katsute.settings-repository",
-        "version": "1.0.5",
+        "version": "1.0.6",
         "enabled": true
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "identifier": "Remisa.shellman",
-        "version": "5.6.1",
+        "version": "5.7.0",
         "enabled": true
     },
     {
@@ -171,7 +171,7 @@
     },
     {
         "identifier": "timonwong.shellcheck",
-        "version": "0.33.1",
+        "version": "0.34.0",
         "enabled": true
     },
     {
@@ -191,7 +191,7 @@
     },
     {
         "identifier": "yzane.markdown-pdf",
-        "version": "1.4.4",
+        "version": "1.5.0",
         "enabled": true
     },
     {
