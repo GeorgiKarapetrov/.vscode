@@ -40,6 +40,11 @@
         "enabled": true
     },
     {
+        "identifier": "cdpautsch.tpl",
+        "version": "1.0.1",
+        "enabled": false
+    },
+    {
         "identifier": "christian-kohler.path-intellisense",
         "version": "2.8.4",
         "enabled": true
@@ -135,6 +140,11 @@
         "enabled": true
     },
     {
+        "identifier": "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "version": "1.3.13",
+        "enabled": false
+    },
+    {
         "identifier": "ms-vscode.makefile-tools",
         "version": "0.7.0",
         "enabled": true
@@ -167,6 +177,16 @@
     {
         "identifier": "snippington.snp-go-basic",
         "version": "0.1.7",
+        "enabled": true
+    },
+    {
+        "identifier": "technosophos.vscode-helm",
+        "version": "0.4.0",
+        "enabled": false
+    },
+    {
+        "identifier": "Tim-Koehler.helm-intellisense",
+        "version": "0.14.3",
         "enabled": true
     },
     {
