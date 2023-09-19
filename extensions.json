@@ -42,7 +42,7 @@
     {
         "identifier": "cdpautsch.tpl",
         "version": "1.0.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "christian-kohler.path-intellisense",
@@ -182,7 +182,7 @@
     {
         "identifier": "technosophos.vscode-helm",
         "version": "0.4.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "Tim-Koehler.helm-intellisense",
