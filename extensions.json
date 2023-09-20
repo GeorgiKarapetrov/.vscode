@@ -142,7 +142,7 @@
     {
         "identifier": "ms-azuretools.vscode-docker",
         "version": "1.26.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-kubernetes-tools.vscode-kubernetes-tools",
@@ -152,7 +152,7 @@
     {
         "identifier": "ms-vscode-remote.remote-containers",
         "version": "0.309.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.makefile-tools",
