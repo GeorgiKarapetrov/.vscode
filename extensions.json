@@ -31,7 +31,7 @@
     },
     {
         "identifier": "bierner.markdown-preview-github-styles",
-        "version": "2.0.2",
+        "version": "2.0.3",
         "enabled": true
     },
     {
@@ -56,7 +56,7 @@
     },
     {
         "identifier": "DavidAnson.vscode-markdownlint",
-        "version": "0.51.0",
+        "version": "0.52.0",
         "enabled": true
     },
     {
@@ -146,7 +146,7 @@
     },
     {
         "identifier": "ms-kubernetes-tools.vscode-kubernetes-tools",
-        "version": "1.3.13",
+        "version": "1.3.14",
         "enabled": true
     },
     {
