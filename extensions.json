@@ -46,7 +46,7 @@
     },
     {
         "identifier": "christian-kohler.path-intellisense",
-        "version": "2.8.4",
+        "version": "2.8.5",
         "enabled": true
     },
     {
@@ -76,7 +76,7 @@
     },
     {
         "identifier": "formulahendry.code-runner",
-        "version": "0.12.0",
+        "version": "0.12.1",
         "enabled": true
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.315.0",
+        "version": "0.315.1",
         "enabled": true
     },
     {
