@@ -141,7 +141,7 @@
     },
     {
         "identifier": "ms-azuretools.vscode-docker",
-        "version": "1.26.1",
+        "version": "1.27.0",
         "enabled": true
     },
     {
@@ -211,7 +211,7 @@
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",
-        "version": "12.5.0",
+        "version": "12.6.0",
         "enabled": true
     },
     {
