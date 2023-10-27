@@ -57,7 +57,7 @@
     {
         "identifier": "DanishSarwar.reverse-search",
         "version": "2.0.2",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "DavidAnson.vscode-markdownlint",
