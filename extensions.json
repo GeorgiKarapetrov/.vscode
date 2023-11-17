@@ -96,7 +96,7 @@
     },
     {
         "identifier": "golang.go",
-        "version": "0.39.1",
+        "version": "0.40.0",
         "enabled": true
     },
     {
