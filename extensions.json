@@ -156,7 +156,7 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.321.0",
+        "version": "0.327.0",
         "enabled": true
     },
     {
