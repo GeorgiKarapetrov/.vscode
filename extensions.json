@@ -177,12 +177,12 @@
     {
         "identifier": "ms-python.python",
         "version": "2023.22.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
         "version": "2023.12.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
