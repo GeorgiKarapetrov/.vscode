@@ -5,6 +5,11 @@
         "enabled": true
     },
     {
+        "identifier": "batisteo.vscode-django",
+        "version": "1.15.0",
+        "enabled": false
+    },
+    {
         "identifier": "bierner.github-markdown-preview",
         "version": "0.3.0",
         "enabled": true
@@ -70,6 +75,16 @@
         "enabled": true
     },
     {
+        "identifier": "donjayamanne.python-environment-manager",
+        "version": "1.2.4",
+        "enabled": false
+    },
+    {
+        "identifier": "donjayamanne.python-extension-pack",
+        "version": "1.7.0",
+        "enabled": false
+    },
+    {
         "identifier": "esbenp.prettier-vscode",
         "version": "10.1.0",
         "enabled": true
@@ -130,6 +145,11 @@
         "enabled": true
     },
     {
+        "identifier": "KevinRose.vsc-python-indent",
+        "version": "1.18.0",
+        "enabled": false
+    },
+    {
         "identifier": "lizebang.bash-extension-pack",
         "version": "0.0.4",
         "enabled": true
@@ -155,6 +175,16 @@
         "enabled": true
     },
     {
+        "identifier": "ms-python.python",
+        "version": "2023.22.1",
+        "enabled": false
+    },
+    {
+        "identifier": "ms-python.vscode-pylance",
+        "version": "2023.12.1",
+        "enabled": false
+    },
+    {
         "identifier": "ms-vscode-remote.remote-containers",
         "version": "0.327.0",
         "enabled": true
@@ -163,6 +193,11 @@
         "identifier": "ms-vscode.makefile-tools",
         "version": "0.8.22",
         "enabled": true
+    },
+    {
+        "identifier": "njpwerner.autodocstring",
+        "version": "0.6.1",
+        "enabled": false
     },
     {
         "identifier": "quicktype.quicktype",
@@ -215,9 +250,24 @@
         "enabled": true
     },
     {
+        "identifier": "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "version": "0.2.8",
+        "enabled": false
+    },
+    {
+        "identifier": "VisualStudioExptTeam.vscodeintellicode",
+        "version": "1.2.30",
+        "enabled": false
+    },
+    {
         "identifier": "vscode-icons-team.vscode-icons",
         "version": "12.7.0",
         "enabled": true
+    },
+    {
+        "identifier": "wholroyd.jinja",
+        "version": "0.0.8",
+        "enabled": false
     },
     {
         "identifier": "wmaurer.change-case",
