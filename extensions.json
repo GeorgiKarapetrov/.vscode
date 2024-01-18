@@ -180,6 +180,11 @@
         "enabled": true
     },
     {
+        "identifier": "ms-python.black-formatter",
+        "version": "2023.6.0",
+        "enabled": true
+    },
+    {
         "identifier": "ms-python.pylint",
         "version": "2023.10.1",
         "enabled": true
