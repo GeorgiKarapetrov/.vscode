@@ -92,7 +92,7 @@
     {
         "identifier": "dbaeumer.vscode-eslint",
         "version": "2.4.4",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "donjayamanne.git-extension-pack",
