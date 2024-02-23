@@ -27,22 +27,22 @@
     {
         "identifier": "bierner.markdown-checkbox",
         "version": "0.4.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "bierner.markdown-emoji",
         "version": "0.3.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "bierner.markdown-footnotes",
         "version": "0.1.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "bierner.markdown-mermaid",
         "version": "1.22.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "bierner.markdown-preview-github-styles",
@@ -72,7 +72,7 @@
     {
         "identifier": "chrmarti.regex",
         "version": "0.4.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "codezombiech.gitignore",
@@ -147,7 +147,7 @@
     {
         "identifier": "genieai.chatgpt-vscode",
         "version": "0.0.10",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "GitHub.copilot",
@@ -327,12 +327,12 @@
     {
         "identifier": "ms-vscode-remote.remote-ssh",
         "version": "0.108.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-vscode-remote.remote-ssh-edit",
         "version": "0.86.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-vscode.makefile-tools",
@@ -347,7 +347,7 @@
     {
         "identifier": "ms-vscode.remote-explorer",
         "version": "0.4.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-vscode.test-adapter-converter",
@@ -487,7 +487,7 @@
     {
         "identifier": "yzane.markdown-pdf",
         "version": "1.5.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "yzhang.markdown-all-in-one",
@@ -502,7 +502,7 @@
     {
         "identifier": "ziyasal.vscode-open-in-github",
         "version": "1.3.6",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "zokugun.cron-tasks",
