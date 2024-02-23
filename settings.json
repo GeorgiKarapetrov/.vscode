@@ -1,6 +1,7 @@
 {
   "files.autoSave": "onFocusChange",
   "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": { "source.fixAll": "explicit" },
   "editor.fontLigatures": true,
   "editor.fontFamily": "Source Code Pro",
   "editor.fontSize": 18,
@@ -8,7 +9,6 @@
   "editor.tabSize": 4,
   "prettier.requireConfig": false,
   "prettier.semi": false,
-  "editor.codeActionsOnSave": { "source.fixAll": "explicit" },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnType": true,
   "html.format.enable": false,
