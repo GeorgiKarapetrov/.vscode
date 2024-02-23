@@ -1,5 +1,6 @@
 {
   "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
   "editor.fontLigatures": true,
   "editor.fontFamily": "Source Code Pro",
   "editor.fontSize": 18,
@@ -7,7 +8,7 @@
   "editor.tabSize": 4,
   "prettier.requireConfig": false,
   "prettier.semi": false,
-  //"editor.codeActionsOnSave": { "source.fixAll": true },
+  "editor.codeActionsOnSave": { "source.fixAll": "explicit" },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnType": true,
   "html.format.enable": false,
@@ -30,13 +31,12 @@
   "[terraform]": {
     "editor.defaultFormatter": "hashicorp.terraform",
     "terraform.codelens.enabled": true,
-    //"editor.formatOnSave": false,
+    "editor.formatOnSave": false,
     "editor.tabSize": 2
   },
   "workbench.iconTheme": "material-icon-theme",
   "rainbowTags.allowEverywhere": true,
   "emmet.triggerExpansionOnTab": true,
-  //"javascript.implicitProjectConfig.checkJs": true,
   "js/ts.implicitProjectConfig.checkJs": true,
   "vsicons.dontShowNewVersionMessage": true,
   "explorer.confirmDelete": false,
@@ -44,15 +44,13 @@
   "cSpell.language": "en,en-GB,en-US",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
-    // "editor.defaultFormatter": "ms-python.python",
     "editor.insertSpaces": true,
     "editor.tabSize": 4
   },
-  "editor.formatOnSave": true,
-  "editor.renderWhitespace": "all",
+  "editor.renderWhitespace": "boundary",
   "python.analysis.typeCheckingMode": "basic",
   "python.formatting.provider": "black",
-  "python.formatting.blackArgs": ["--line-length=100"],
+  "python.formatting.blackArgs": ["--line-length=82"],
   "python.analysis.autoImportCompletions": true,
   "python.analysis.extraPaths": [
     "/home/georgi/Documents/projects/freq/freqtrade_official/freqtrade"
@@ -166,7 +164,6 @@
   },
   "errorLens.excludeBySource": ["compiler(UndeclaredName)"],
   "workbench.colorTheme": "Default High Contrast",
-  "tabnine.experimentalAutoImports": true,
-  "helm-intellisense.lintFileOnSave": false,
-  "terminal.integrated.enableMultiLinePasteWarning": "never"
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "settings-repository.autoSync": false
 }
