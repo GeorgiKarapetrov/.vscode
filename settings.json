@@ -1,4 +1,5 @@
 {
+  "files.autoSave": "onFocusChange",
   "editor.fontLigatures": true,
   "editor.fontFamily": "Source Code Pro",
   "editor.fontSize": 18,
@@ -43,10 +44,30 @@
   "cSpell.language": "en,en-GB,en-US",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
+    // "editor.defaultFormatter": "ms-python.python",
     "editor.insertSpaces": true,
     "editor.tabSize": 4
   },
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "python.analysis.typeCheckingMode": "basic",
   "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["--line-length=120"],
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.extraPaths": [
+    "/home/georgi/Documents/projects/freq/freqtrade_official/freqtrade"
+  ],
+  "python.analysis.inlayHints.functionReturnTypes": true,
+  "python.analysis.inlayHints.variableTypes": true,
+  "python.pythonPath": "python3",
+  "code-runner.executorMap": {
+    "python": "/usr/bin/python3"
+  },
+  "mypy-type-checker.interpreter": [
+    "/home/georgi/Documents/projects/freq/freqtrade_official/freqtrade/.venv/bin/python"
+  ],
+  "mypy-type-checker.importStrategy": "fromEnvironment",
+  "python.analysis.fixAll": ["source.convertImportFormat"],
   "[dotenv]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
@@ -64,10 +85,6 @@
     "fixme",
     "asd"
   ],
-  "python.pythonPath": "python3",
-  "code-runner.executorMap": {
-    "python": "/usr/bin/python3"
-  },
   "[xml]": {
     "editor.defaultFormatter": "redhat.vscode-xml"
   },
@@ -82,14 +99,6 @@
     "**/.project": true,
     "**/.settings": true,
     "**/.factorypath": true
-  },
-  "[java]": {
-    "editor.defaultFormatter": "redhat.java"
-  },
-  "[csharp]": {
-    "editor.defaultFormatter": "ms-dotnettools.csharp",
-    "editor.formatOnSave": false,
-    "editor.tabSize": 4
   },
   "metaGo.surroundPairs": {
     "type": "object",
@@ -107,10 +116,6 @@
   },
   "projectManager.any.maxDepthRecursion": 2,
   "projectManager.filterOnFullPath": true,
-  "github.copilot.advanced": {},
-  "[groovy]": {
-    "editor.defaultFormatter": "NicolasVuillamy.vscode-groovy-lint"
-  },
   "git.confirmSync": false,
   "editor.guides.indentation": false,
   "files.associations": {
@@ -118,10 +123,8 @@
     "*.yml": "yaml"
   },
   "security.workspace.trust.untrustedFiles": "open",
-  "syncSettings.additionalFiles": [
-  
-  ],
-  "settings-repository.branch": "master",
+  "syncSettings.additionalFiles": [],
+  "settings-repository.branch": "home",
   "settings-repository.repository": "https://github.com/GeorgiKarapetrov/.vscode.git",
   "go.lintTool": "golangci-lint",
   "terraform.languageServer.terraform.path": "/home/georgi.karapetrov/.tfenv/bin/terraform",
@@ -161,10 +164,9 @@
   "[go]": {
     "editor.defaultFormatter": "golang.go"
   },
-  "errorLens.excludeBySource": [
-    "compiler(UndeclaredName)"
-  ],
+  "errorLens.excludeBySource": ["compiler(UndeclaredName)"],
   "workbench.colorTheme": "Default High Contrast",
   "tabnine.experimentalAutoImports": true,
-  "helm-intellisense.lintFileOnSave": false
+  "helm-intellisense.lintFileOnSave": false,
+  "terminal.integrated.enableMultiLinePasteWarning": "never"
 }
