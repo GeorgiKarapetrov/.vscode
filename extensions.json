@@ -342,7 +342,7 @@
     {
         "identifier": "ms-vscode.powershell",
         "version": "2024.0.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-vscode.remote-explorer",
