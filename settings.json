@@ -52,7 +52,7 @@
   "editor.renderWhitespace": "all",
   "python.analysis.typeCheckingMode": "basic",
   "python.formatting.provider": "black",
-  "python.formatting.blackArgs": ["--line-length=120"],
+  "python.formatting.blackArgs": ["--line-length=100"],
   "python.analysis.autoImportCompletions": true,
   "python.analysis.extraPaths": [
     "/home/georgi/Documents/projects/freq/freqtrade_official/freqtrade"
