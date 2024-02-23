@@ -305,11 +305,6 @@
         "enabled": true
     },
     {
-        "identifier": "ms-vscode.powershell",
-        "version": "2024.0.0",
-        "enabled": true
-    },
-    {
         "identifier": "ms-vscode.remote-explorer",
         "version": "0.4.1",
         "enabled": false
@@ -432,7 +427,7 @@
     {
         "identifier": "ZainChen.json",
         "version": "2.0.2",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ziyasal.vscode-open-in-github",
