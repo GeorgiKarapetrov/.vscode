@@ -57,6 +57,11 @@
     {
         "identifier": "Blackboxapp.blackbox",
         "version": "1.2.62",
+        "enabled": true
+    },
+    {
+        "identifier": "cdpautsch.tpl",
+        "version": "1.0.1",
         "enabled": false
     },
     {
@@ -72,6 +77,11 @@
     {
         "identifier": "codezombiech.gitignore",
         "version": "0.9.0",
+        "enabled": true
+    },
+    {
+        "identifier": "DanishSarwar.reverse-search",
+        "version": "2.0.2",
         "enabled": true
     },
     {
@@ -137,17 +147,17 @@
     {
         "identifier": "genieai.chatgpt-vscode",
         "version": "0.0.10",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "GitHub.copilot",
         "version": "1.165.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "GitHub.copilot-chat",
         "version": "0.12.2",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "GitLab.gitlab-workflow",
@@ -172,6 +182,11 @@
     {
         "identifier": "hbenl.vscode-test-explorer",
         "version": "2.21.1",
+        "enabled": false
+    },
+    {
+        "identifier": "honnamkuan.golang-snippets",
+        "version": "1.2.0",
         "enabled": false
     },
     {
@@ -212,6 +227,11 @@
     {
         "identifier": "mads-hartmann.bash-ide-vscode",
         "version": "1.39.0",
+        "enabled": true
+    },
+    {
+        "identifier": "matangover.mypy",
+        "version": "0.3.0",
         "enabled": true
     },
     {
@@ -337,7 +357,7 @@
     {
         "identifier": "nigelvm.monokai-luminous",
         "version": "0.3.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "njpwerner.autodocstring",
@@ -390,6 +410,11 @@
         "enabled": false
     },
     {
+        "identifier": "snippington.snp-go-basic",
+        "version": "0.1.7",
+        "enabled": false
+    },
+    {
         "identifier": "streetsidesoftware.code-spell-checker",
         "version": "3.0.1",
         "enabled": false
@@ -402,12 +427,17 @@
     {
         "identifier": "TabNine.tabnine-vscode",
         "version": "3.72.0",
+        "enabled": true
+    },
+    {
+        "identifier": "technosophos.vscode-helm",
+        "version": "0.4.0",
         "enabled": false
     },
     {
         "identifier": "Tim-Koehler.helm-intellisense",
         "version": "0.14.3",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "timonwong.shellcheck",
@@ -415,14 +445,24 @@
         "enabled": true
     },
     {
+        "identifier": "UmarMarufMutaqin.go-snippets-simple",
+        "version": "0.9.3",
+        "enabled": false
+    },
+    {
         "identifier": "usernamehw.errorlens",
         "version": "3.16.0",
         "enabled": false
     },
     {
+        "identifier": "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "version": "0.2.8",
+        "enabled": true
+    },
+    {
         "identifier": "VisualStudioExptTeam.vscodeintellicode",
         "version": "1.2.30",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",
@@ -467,6 +507,11 @@
     {
         "identifier": "zokugun.cron-tasks",
         "version": "0.1.2",
+        "enabled": false
+    },
+    {
+        "identifier": "zsh.go-snippets",
+        "version": "0.0.4",
         "enabled": false
     }
 ]
