@@ -47,7 +47,7 @@
     "editor.insertSpaces": true,
     "editor.tabSize": 4
   },
-  "editor.renderWhitespace": "boundary",
+  "editor.renderWhitespace": "selection",
   "python.analysis.typeCheckingMode": "basic",
   "python.formatting.provider": "black",
   "python.formatting.blackArgs": ["--line-length=82"],
