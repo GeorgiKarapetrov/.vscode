@@ -46,7 +46,7 @@
     },
     {
         "identifier": "bierner.markdown-preview-github-styles",
-        "version": "2.0.3",
+        "version": "2.0.4",
         "enabled": true
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "14.8.2",
+        "version": "14.9.0",
         "enabled": false
     },
     {
@@ -121,7 +121,7 @@
     },
     {
         "identifier": "fabiospampinato.vscode-diff",
-        "version": "1.4.2",
+        "version": "2.1.0",
         "enabled": true
     },
     {
@@ -137,21 +137,21 @@
     {
         "identifier": "foxx1337.autoscrolldown",
         "version": "1.2.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "GitLab.gitlab-workflow",
-        "version": "4.3.2",
+        "version": "4.7.0",
         "enabled": false
     },
     {
         "identifier": "golang.go",
-        "version": "0.41.1",
+        "version": "0.41.2",
         "enabled": false
     },
     {
         "identifier": "hashicorp.terraform",
-        "version": "2.29.4",
+        "version": "2.29.5",
         "enabled": false
     },
     {
@@ -181,7 +181,7 @@
     },
     {
         "identifier": "Katsute.settings-repository",
-        "version": "1.0.8",
+        "version": "1.0.9",
         "enabled": true
     },
     {
@@ -231,7 +231,7 @@
     },
     {
         "identifier": "ms-python.debugpy",
-        "version": "2024.0.0",
+        "version": "2024.2.0",
         "enabled": true
     },
     {
@@ -251,17 +251,17 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2024.0.1",
+        "version": "2024.2.1",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2024.2.2",
+        "version": "2024.3.1",
         "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2024.1.1",
+        "version": "2024.2.0",
         "enabled": false
     },
     {
@@ -286,12 +286,12 @@
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.338.1",
+        "version": "0.348.0",
         "enabled": false
     },
     {
         "identifier": "ms-vscode-remote.remote-ssh",
-        "version": "0.108.0",
+        "version": "0.109.0",
         "enabled": false
     },
     {
@@ -301,12 +301,12 @@
     },
     {
         "identifier": "ms-vscode.makefile-tools",
-        "version": "0.8.22",
+        "version": "0.9.10",
         "enabled": true
     },
     {
         "identifier": "ms-vscode.remote-explorer",
-        "version": "0.4.1",
+        "version": "0.4.3",
         "enabled": false
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "identifier": "timonwong.shellcheck",
-        "version": "0.35.0",
+        "version": "0.37.0",
         "enabled": true
     },
     {
@@ -401,7 +401,7 @@
     },
     {
         "identifier": "waderyan.gitblame",
-        "version": "10.9.0",
+        "version": "10.10.0",
         "enabled": false
     },
     {

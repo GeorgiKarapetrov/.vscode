@@ -55,8 +55,8 @@
   "python.analysis.extraPaths": [
     "/home/georgi/Documents/projects/freq/freqtrade_official/freqtrade"
   ],
-  "python.analysis.inlayHints.functionReturnTypes": true,
-  "python.analysis.inlayHints.variableTypes": true,
+  "python.analysis.inlayHints.functionReturnTypes": false,
+  "python.analysis.inlayHints.variableTypes": false,
   "python.pythonPath": "python3",
   "code-runner.executorMap": {
     "python": "/usr/bin/python3"
@@ -124,7 +124,6 @@
   "syncSettings.additionalFiles": [],
   "settings-repository.branch": "home",
   "settings-repository.repository": "https://github.com/GeorgiKarapetrov/.vscode.git",
-  "go.lintTool": "golangci-lint",
   "terraform.languageServer.terraform.path": "/home/georgi.karapetrov/.tfenv/bin/terraform",
   "code-runner.executorMapByFileExtension": {
     ".vb": "cd $dir && vbc /nologo $fileName && $dir$fileNameWithoutExt",
@@ -159,6 +158,7 @@
     ".ring": "ring",
     ".sml": "cd $dir && sml $fileName"
   },
+  "go.lintTool": "golangci-lint",
   "[go]": {
     "editor.defaultFormatter": "golang.go"
   },
