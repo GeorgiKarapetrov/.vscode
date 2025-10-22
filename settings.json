@@ -1,10 +1,61 @@
 {
+  "problems.decorations.enabled": false,
+  "problems.visibility": false,
+  "terminal.integrated.profiles.osx": {
+    "bash": {
+      "path": "bash",
+      "args": ["-l"],
+      "icon": "terminal-bash"
+    },
+    "zsh": {
+      "path": "zsh",
+      "args": ["-l"]
+    },
+    "fish": {
+      "path": "fish",
+      "args": ["-l"]
+    },
+    "tmux": {
+      "path": "tmux",
+      "icon": "terminal-tmux"
+    },
+    "pwsh": {
+      "path": "pwsh",
+      "icon": "terminal-powershell"
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "bash",
+  "redhat.telemetry.enabled": false,
+  "go.toolsManagement.autoUpdate": true,
+  "editor.fontFamily": "'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "settings-repository.repository": "https://github.com/GeorgiKarapetrov/.vscode.git",
+  "settings-repository.branch": "sap",
+  "settings-repository.autoSync": false,
+  // "githubPullRequests.queries": [
+  //   {
+  //     "label": "Waiting For My Review",
+  //     "query": "is:open review-requested:${user}"
+  //   },
+  //   {
+  //     "label": "Assigned To Me",
+  //     "query": "is:open assignee:${user}"
+  //   },
+  //   {
+  //     "label": "Created By Me",
+  //     "query": "is:open author:${user}"
+  //   },
+  //   {
+  //     "label": "Created By Me (All)",
+  //     "query": "author:${user}"
+  //   }
+  // ],
+  // "githubPullRequests.pullBranch": "never",
+
   "files.autoSave": "onFocusChange",
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "editor.codeActionsOnSave": { "source.fixAll": "explicit" },
   "editor.fontLigatures": true,
-  "editor.fontFamily": "Source Code Pro",
-  "editor.fontSize": 18,
   "editor.wordWrap": "on",
   "editor.tabSize": 4,
   "prettier.requireConfig": false,
@@ -30,50 +81,51 @@
   },
   "[terraform]": {
     "editor.defaultFormatter": "hashicorp.terraform",
-    "terraform.codelens.enabled": true,
+    // "terraform.codelens.enabled": true,
     "editor.formatOnSave": false,
     "editor.tabSize": 2
   },
-  "workbench.iconTheme": "material-icon-theme",
+  "terraform.languageServer.terraform.path": "/opt/homebrew/bin/terraform",
+  "terraform.codelens.referenceCount": true,
+  "terraform.languageServer.path": "/opt/homebrew/bin//terraform-ls",
+  "terraform.experimentalFeatures.prefillRequiredFields": true,
+  "editor.suggest.preview": true,
   "rainbowTags.allowEverywhere": true,
   "emmet.triggerExpansionOnTab": true,
   "js/ts.implicitProjectConfig.checkJs": true,
-  "vsicons.dontShowNewVersionMessage": true,
+  // "vsicons.dontShowNewVersionMessage": true,
   "explorer.confirmDelete": false,
   "editor.wordWrapColumn": 144,
-  "cSpell.language": "en,en-GB,en-US",
+  // "cSpell.language": "en,en-GB,en-US",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.insertSpaces": true,
-    "editor.tabSize": 4
+    "editor.tabSize": 4,
+    "editor.formatOnSave": false
   },
   "editor.renderWhitespace": "selection",
-  "python.analysis.typeCheckingMode": "basic",
-  "python.formatting.provider": "black",
-  "python.formatting.blackArgs": ["--line-length=82"],
-  "python.analysis.autoImportCompletions": true,
   "python.analysis.extraPaths": [
-    "/home/georgi/Documents/projects/freq/freqtrade_official/freqtrade"
+    "/Users/I749323/Documents/projects/tools/hci/landscape/scripts/hc",
+    "/Users/I749323/Documents/projects/dBaaS/csi-iaas-credential-rotator/helm/csi-iaas-credential-rotator/src/"
   ],
+  "python.analysis.typeCheckingMode": "basic",
+  // "python.formatting.provider": "black",
+  // "python.formatting.blackArgs": ["--line-length=82"],
+  "python.analysis.autoImportCompletions": true,
   "python.analysis.inlayHints.functionReturnTypes": false,
   "python.analysis.inlayHints.variableTypes": false,
-  "python.pythonPath": "python3",
+  // "python.pythonPath": "python3",
   "code-runner.executorMap": {
-    "python": "/usr/bin/python3"
+    "python": "/Users/I749323/.pyenv/shims/python"
   },
-  "mypy-type-checker.interpreter": [
-    "/home/georgi/Documents/projects/freq/freqtrade_official/freqtrade/.venv/bin/python"
-  ],
+  "mypy-type-checker.interpreter": ["/Users/I749323/.pyenv/shims/python"],
   "mypy-type-checker.importStrategy": "fromEnvironment",
   "python.analysis.fixAll": ["source.convertImportFormat"],
   "[dotenv]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "editor.suggestSelection": "first",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "projectManager.git.baseFolders": [
-    "/home/georgi.karapetrov/Documents/projects/"
-  ],
+  // "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "todo-tree.general.tags": [
     "BUG",
     "HACK",
@@ -83,15 +135,14 @@
     "fixme",
     "asd"
   ],
-  "[xml]": {
-    "editor.defaultFormatter": "redhat.vscode-xml"
-  },
+  //   "[xml]": {
+  //     "editor.defaultFormatter": "redhat.vscode-xml"
+  //   },
   "diffEditor.ignoreTrimWhitespace": false,
   "git.suggestSmartCommit": false,
   "[shellscript]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
+    "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
   },
-  "redhat.telemetry.enabled": false,
   "files.exclude": {
     "**/.classpath": true,
     "**/.project": true,
@@ -112,8 +163,9 @@
       ]
     ]
   },
-  "projectManager.any.maxDepthRecursion": 2,
-  "projectManager.filterOnFullPath": true,
+  //   "projectManager.git.baseFolders": ["/Users/I749323/Documents/projects/"],
+  //   "projectManager.any.maxDepthRecursion": 2,
+  //   "projectManager.filterOnFullPath": true,
   "git.confirmSync": false,
   "editor.guides.indentation": false,
   "files.associations": {
@@ -121,10 +173,8 @@
     "*.yml": "yaml"
   },
   "security.workspace.trust.untrustedFiles": "open",
-  "syncSettings.additionalFiles": [],
-  "settings-repository.branch": "home",
-  "settings-repository.repository": "https://github.com/GeorgiKarapetrov/.vscode.git",
-  "terraform.languageServer.terraform.path": "/home/georgi.karapetrov/.tfenv/bin/terraform",
+  // "syncSettings.additionalFiles": [],
+
   "code-runner.executorMapByFileExtension": {
     ".vb": "cd $dir && vbc /nologo $fileName && $dir$fileNameWithoutExt",
     ".vbs": "cscript //Nologo",
@@ -162,8 +212,26 @@
   "[go]": {
     "editor.defaultFormatter": "golang.go"
   },
-  "errorLens.excludeBySource": ["compiler(UndeclaredName)"],
-  "workbench.colorTheme": "Default High Contrast",
+  "errorLens.excludeBySource": [
+    "compiler(UndeclaredName)"
+  ],
   "terminal.integrated.enableMultiLinePasteWarning": "never",
-  "settings-repository.autoSync": false
+  "editor.guides.bracketPairs": true,
+  "gitlens.codeLens.authors.command": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "monokai-charcoal",
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
 }
