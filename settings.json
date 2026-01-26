@@ -1,4 +1,5 @@
 {
+  "terminal.integrated.suggest.enabled": false,
   "problems.decorations.enabled": false,
   "problems.visibility": false,
   "terminal.integrated.profiles.osx": {
