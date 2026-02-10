@@ -86,7 +86,7 @@
     },
     {
         "identifier": "hashicorp.terraform",
-        "version": "2.37.6",
+        "version": "2.37.7",
         "enabled": true
     },
     {
