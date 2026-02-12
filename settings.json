@@ -6,24 +6,24 @@
     "bash": {
       "path": "bash",
       "args": ["-l"],
-      "icon": "terminal-bash"
+      "icon": "terminal-bash",
     },
     "zsh": {
       "path": "zsh",
-      "args": ["-l"]
+      "args": ["-l"],
     },
     "fish": {
       "path": "fish",
-      "args": ["-l"]
+      "args": ["-l"],
     },
     "tmux": {
       "path": "tmux",
-      "icon": "terminal-tmux"
+      "icon": "terminal-tmux",
     },
     "pwsh": {
       "path": "pwsh",
-      "icon": "terminal-powershell"
-    }
+      "icon": "terminal-powershell",
+    },
   },
   "terminal.integrated.defaultProfile.osx": "bash",
   "redhat.telemetry.enabled": false,
@@ -66,25 +66,25 @@
   "html.format.enable": false,
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
   },
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features",
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
   },
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
   },
   "[terraform]": {
     "editor.defaultFormatter": "hashicorp.terraform",
     // "terraform.codelens.enabled": true,
     "editor.formatOnSave": false,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
   },
   "terraform.languageServer.terraform.path": "/opt/homebrew/bin/terraform",
   "terraform.codelens.referenceCount": true,
@@ -102,12 +102,12 @@
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.insertSpaces": true,
     "editor.tabSize": 4,
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
   },
   "editor.renderWhitespace": "selection",
   "python.analysis.extraPaths": [
     "/Users/I749323/Documents/projects/tools/hci/landscape/scripts/hc",
-    "/Users/I749323/Documents/projects/dBaaS/csi-iaas-credential-rotator/helm/csi-iaas-credential-rotator/src/"
+    "/Users/I749323/Documents/projects/dBaaS/csi-iaas-credential-rotator/helm/csi-iaas-credential-rotator/src/",
   ],
   "python.analysis.typeCheckingMode": "basic",
   // "python.formatting.provider": "black",
@@ -117,13 +117,13 @@
   "python.analysis.inlayHints.variableTypes": false,
   // "python.pythonPath": "python3",
   "code-runner.executorMap": {
-    "python": "/Users/I749323/.pyenv/shims/python"
+    "python": "/Users/I749323/.pyenv/shims/python",
   },
   "mypy-type-checker.interpreter": ["/Users/I749323/.pyenv/shims/python"],
   "mypy-type-checker.importStrategy": "fromEnvironment",
   "python.analysis.fixAll": ["source.convertImportFormat"],
   "[dotenv]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
+    "editor.defaultFormatter": "foxundermoon.shell-format",
   },
   "editor.suggestSelection": "first",
   // "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
@@ -134,7 +134,7 @@
     "TODO",
     "XXX",
     "fixme",
-    "asd"
+    "asd",
   ],
   //   "[xml]": {
   //     "editor.defaultFormatter": "redhat.vscode-xml"
@@ -142,13 +142,13 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "git.suggestSmartCommit": false,
   "[shellscript]": {
-    "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
+    "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode",
   },
   "files.exclude": {
     "**/.classpath": true,
     "**/.project": true,
     "**/.settings": true,
-    "**/.factorypath": true
+    "**/.factorypath": true,
   },
   "metaGo.surroundPairs": {
     "type": "object",
@@ -160,9 +160,9 @@
       [
         "/<(?!/)(?!!)(?!br[\\s>])(?!area[\\s>])(?!base[\\s>])(?!col[\\s>])(?!command[\\s>])(?!embed[\\s>])(?!hr[\\s>])(?!img[\\s>])(?!input[\\s>])(?!keygen[\\s>])(?!link[\\s>])(?!meta[\\s>])(?!param[\\s>])(?!source[\\s>])(?!track[\\s>])(?!wbr[\\s>])((?:.(?!/>))+?)(?<!/)>/ms",
         "/</(.+?)>/",
-        "t"
-      ]
-    ]
+        "t",
+      ],
+    ],
   },
   //   "projectManager.git.baseFolders": ["/Users/I749323/Documents/projects/"],
   //   "projectManager.any.maxDepthRecursion": 2,
@@ -174,7 +174,7 @@
     "*.yml": "yaml",
     "**/helm/**/templates/**/*.yaml": "helm",
     "**/helm/**/templates/**/*.tpl": "helm",
-    "**/helm/**/templates/NOTES.txt": "helm"
+    "**/helm/**/templates/NOTES.txt": "helm",
   },
   "security.workspace.trust.untrustedFiles": "open",
   // "syncSettings.additionalFiles": [],
@@ -210,18 +210,17 @@
     ".sass": "sass --style expanded",
     ".cu": "cd $dir && nvcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
     ".ring": "ring",
-    ".sml": "cd $dir && sml $fileName"
+    ".sml": "cd $dir && sml $fileName",
   },
   "go.lintTool": "golangci-lint",
   "[go]": {
-    "editor.defaultFormatter": "golang.go"
+    "editor.defaultFormatter": "golang.go",
   },
   "errorLens.excludeBySource": ["compiler(UndeclaredName)"],
   "terminal.integrated.enableMultiLinePasteWarning": "never",
   "editor.guides.bracketPairs": true,
   "gitlens.codeLens.authors.command": false,
   "explorer.confirmDragAndDrop": false,
-  "workbench.colorTheme": "monokai-charcoal",
   "[dockercompose]": {
     "editor.insertSpaces": true,
     "editor.tabSize": 2,
@@ -229,14 +228,16 @@
     "editor.quickSuggestions": {
       "other": true,
       "comments": false,
-      "strings": true
+      "strings": true,
     },
-    "editor.defaultFormatter": "redhat.vscode-yaml"
+    "editor.defaultFormatter": "redhat.vscode-yaml",
   },
   "[github-actions-workflow]": {
-    "editor.defaultFormatter": "redhat.vscode-yaml"
+    "editor.defaultFormatter": "redhat.vscode-yaml",
   },
   "workbench.editorAssociations": {
-    "*.svg": "default"
-  }
+    "*.svg": "default",
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "monokai-charcoal",
 }

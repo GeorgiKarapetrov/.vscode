@@ -41,7 +41,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "17.9.0",
+        "version": "17.10.0",
         "enabled": true
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "identifier": "saoudrizwan.claude-dev",
-        "version": "3.57.1",
+        "version": "3.58.0",
         "enabled": true
     },
     {
@@ -307,6 +307,11 @@
     {
         "identifier": "timonwong.shellcheck",
         "version": "0.38.6",
+        "enabled": true
+    },
+    {
+        "identifier": "tomoki1207.pdf",
+        "version": "1.2.2",
         "enabled": true
     },
     {
