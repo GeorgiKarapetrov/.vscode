@@ -240,4 +240,11 @@
   },
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "monokai-charcoal",
+  "cSpell.userWords": [
+    "DBCI",
+    "HDBAAS",
+    "hyperscaler",
+    "hyperscalers",
+    "redeployments",
+  ],
 }
