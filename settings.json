@@ -239,12 +239,13 @@
     "*.svg": "default",
   },
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "monokai-charcoal",
   "cSpell.userWords": [
     "DBCI",
+    "HANA",
     "HDBAAS",
     "hyperscaler",
     "hyperscalers",
     "redeployments",
   ],
+  "workbench.colorTheme": "monokai-charcoal",
 }

@@ -41,7 +41,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "17.10.0",
+        "version": "17.11.1",
         "enabled": true
     },
     {
@@ -66,7 +66,7 @@
     },
     {
         "identifier": "GitHub.vscode-pull-request-github",
-        "version": "0.128.0",
+        "version": "0.132.0",
         "enabled": false
     },
     {
@@ -86,7 +86,7 @@
     },
     {
         "identifier": "hashicorp.terraform",
-        "version": "2.37.7",
+        "version": "2.39.0",
         "enabled": true
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "identifier": "Katsute.settings-repository",
-        "version": "2.0.0",
+        "version": "2.0.1",
         "enabled": true
     },
     {
@@ -196,22 +196,22 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2026.0.0",
+        "version": "2026.4.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2025.10.4",
+        "version": "2026.1.1",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-python-envs",
-        "version": "1.16.0",
+        "version": "1.22.0",
         "enabled": true
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.442.0",
+        "version": "0.447.0",
         "enabled": true
     },
     {
@@ -251,7 +251,7 @@
     },
     {
         "identifier": "PKief.material-icon-theme",
-        "version": "5.31.0",
+        "version": "5.32.0",
         "enabled": true
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "identifier": "redhat.vscode-yaml",
-        "version": "1.19.1",
+        "version": "1.21.0",
         "enabled": true
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "identifier": "saoudrizwan.claude-dev",
-        "version": "3.59.0",
+        "version": "3.72.0",
         "enabled": true
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "identifier": "timonwong.shellcheck",
-        "version": "0.38.6",
+        "version": "0.39.2",
         "enabled": true
     },
     {
@@ -331,7 +331,7 @@
     },
     {
         "identifier": "waderyan.gitblame",
-        "version": "11.2.0",
+        "version": "12.0.3",
         "enabled": false
     },
     {

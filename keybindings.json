@@ -1,41 +1,41 @@
 // Place your key bindings in this file to override the defaults
 [
-    {
-        "key": "ctrl+s",
-        "command": "workbench.action.files.saveWithoutFormatting"
-    },
-    {
-        "key": "ctrl+k s",
-        "command": "workbench.action.files.save"
-    },
-    {
-        "key": "shift+down",
-        "command": "-cursorColumnSelectDown",
-        "when": "editorColumnSelection && textInputFocus"
-    },
-    {
-        "key": "shift+left",
-        "command": "-cursorColumnSelectLeft",
-        "when": "editorColumnSelection && textInputFocus"
-    },
-    {
-        "key": "shift+pagedown",
-        "command": "-cursorColumnSelectPageDown",
-        "when": "editorColumnSelection && textInputFocus"
-    },
-    {
-        "key": "shift+pageup",
-        "command": "-cursorColumnSelectPageUp",
-        "when": "editorColumnSelection && textInputFocus"
-    },
-    {
-        "key": "shift+right",
-        "command": "-cursorColumnSelectRight",
-        "when": "editorColumnSelection && textInputFocus"
-    },
-    {
-        "key": "shift+up",
-        "command": "-cursorColumnSelectUp",
-        "when": "editorColumnSelection && textInputFocus"
-    }
+  {
+    "key": "ctrl+s",
+    "command": "workbench.action.files.saveWithoutFormatting",
+  },
+  {
+    "key": "ctrl+k s",
+    "command": "workbench.action.files.save",
+  },
+  {
+    "key": "shift+down",
+    "command": "-cursorColumnSelectDown",
+    "when": "editorColumnSelection && textInputFocus",
+  },
+  {
+    "key": "shift+left",
+    "command": "-cursorColumnSelectLeft",
+    "when": "editorColumnSelection && textInputFocus",
+  },
+  {
+    "key": "shift+pagedown",
+    "command": "-cursorColumnSelectPageDown",
+    "when": "editorColumnSelection && textInputFocus",
+  },
+  {
+    "key": "shift+pageup",
+    "command": "-cursorColumnSelectPageUp",
+    "when": "editorColumnSelection && textInputFocus",
+  },
+  {
+    "key": "shift+right",
+    "command": "-cursorColumnSelectRight",
+    "when": "editorColumnSelection && textInputFocus",
+  },
+  {
+    "key": "shift+up",
+    "command": "-cursorColumnSelectUp",
+    "when": "editorColumnSelection && textInputFocus",
+  },
 ]
