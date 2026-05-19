@@ -1,4 +1,5 @@
 {
+  "terminal.integrated.shellIntegration.enabled": false,
   "terminal.integrated.suggest.enabled": false,
   "problems.decorations.enabled": false,
   "problems.visibility": false,
@@ -61,15 +62,13 @@
   "editor.tabSize": 4,
   "prettier.requireConfig": false,
   "prettier.semi": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnType": true,
   "html.format.enable": false,
   "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false,
   },
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false,
   },
   "[json]": {
@@ -77,7 +76,6 @@
     "editor.formatOnSave": false,
   },
   "[markdown]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false,
   },
   "[terraform]": {
@@ -109,6 +107,8 @@
     "/Users/I749323/Documents/projects/tools/hci/landscape/scripts/hc",
     "/Users/I749323/Documents/projects/dBaaS/csi-iaas-credential-rotator/helm/csi-iaas-credential-rotator/src/",
   ],
+  "python.analysis.diagnosticMode": "openFilesOnly",
+  "python.analysis.indexing": "light",
   "python.analysis.typeCheckingMode": "basic",
   // "python.formatting.provider": "black",
   // "python.formatting.blackArgs": ["--line-length=82"],
@@ -247,5 +247,7 @@
     "hyperscalers",
     "redeployments",
   ],
+  "comments.openView": "never",
   "workbench.colorTheme": "monokai-charcoal",
+  "chat.viewSessions.orientation": "stacked",
 }

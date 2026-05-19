@@ -11,7 +11,7 @@
     },
     {
         "identifier": "alefragnani.project-manager",
-        "version": "13.0.1",
+        "version": "13.1.0",
         "enabled": false
     },
     {
@@ -41,7 +41,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "17.11.1",
+        "version": "17.12.2",
         "enabled": true
     },
     {
@@ -51,8 +51,8 @@
     },
     {
         "identifier": "esbenp.prettier-vscode",
-        "version": "12.3.0",
-        "enabled": true
+        "version": "12.4.0",
+        "enabled": false
     },
     {
         "identifier": "formulahendry.code-runner",
@@ -65,8 +65,13 @@
         "enabled": true
     },
     {
+        "identifier": "GitHub.copilot-chat",
+        "version": "0.48.1",
+        "enabled": false
+    },
+    {
         "identifier": "GitHub.vscode-pull-request-github",
-        "version": "0.132.0",
+        "version": "0.144.0",
         "enabled": false
     },
     {
@@ -86,7 +91,7 @@
     },
     {
         "identifier": "hashicorp.terraform",
-        "version": "2.39.0",
+        "version": "2.39.2",
         "enabled": true
     },
     {
@@ -107,11 +112,16 @@
     {
         "identifier": "johnpapa.vscode-peacock",
         "version": "4.2.2",
+        "enabled": false
+    },
+    {
+        "identifier": "JuehangQin.vscode-mcp-server",
+        "version": "0.4.0",
         "enabled": true
     },
     {
         "identifier": "Katsute.settings-repository",
-        "version": "2.0.1",
+        "version": "2.0.2",
         "enabled": true
     },
     {
@@ -132,7 +142,7 @@
     {
         "identifier": "metaseed.MetaJump",
         "version": "1.4.4",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "metaseed.MetaWord",
@@ -151,7 +161,7 @@
     },
     {
         "identifier": "ms-azuretools.vscode-containers",
-        "version": "2.4.1",
+        "version": "2.4.4",
         "enabled": true
     },
     {
@@ -166,32 +176,32 @@
     },
     {
         "identifier": "ms-python.autopep8",
-        "version": "2025.2.0",
+        "version": "2026.4.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.black-formatter",
-        "version": "2025.2.0",
+        "version": "2026.4.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.debugpy",
-        "version": "2025.18.0",
+        "version": "2026.6.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.isort",
-        "version": "2025.0.0",
+        "version": "2026.4.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.mypy-type-checker",
-        "version": "2025.2.0",
+        "version": "2026.4.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.pylint",
-        "version": "2025.2.0",
+        "version": "2026.4.0",
         "enabled": true
     },
     {
@@ -201,17 +211,17 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2026.1.1",
+        "version": "2026.2.1",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-python-envs",
-        "version": "1.22.0",
+        "version": "1.30.0",
         "enabled": true
     },
     {
         "identifier": "ms-vscode-remote.remote-containers",
-        "version": "0.447.0",
+        "version": "0.459.0",
         "enabled": true
     },
     {
@@ -237,11 +247,11 @@
     {
         "identifier": "oderwat.indent-rainbow",
         "version": "8.3.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "pejmannikram.vscode-auto-scroll",
-        "version": "1.2.0",
+        "version": "1.3.0",
         "enabled": true
     },
     {
@@ -251,7 +261,7 @@
     },
     {
         "identifier": "PKief.material-icon-theme",
-        "version": "5.32.0",
+        "version": "5.34.0",
         "enabled": true
     },
     {
@@ -266,12 +276,12 @@
     },
     {
         "identifier": "redhat.vscode-xml",
-        "version": "0.29.0",
+        "version": "0.29.2",
         "enabled": false
     },
     {
         "identifier": "redhat.vscode-yaml",
-        "version": "1.21.0",
+        "version": "1.23.0",
         "enabled": true
     },
     {
@@ -296,7 +306,7 @@
     },
     {
         "identifier": "saoudrizwan.claude-dev",
-        "version": "3.72.0",
+        "version": "3.83.0",
         "enabled": true
     },
     {
@@ -306,7 +316,7 @@
     },
     {
         "identifier": "timonwong.shellcheck",
-        "version": "0.39.2",
+        "version": "0.39.5",
         "enabled": true
     },
     {
@@ -331,7 +341,7 @@
     },
     {
         "identifier": "waderyan.gitblame",
-        "version": "12.0.3",
+        "version": "13.0.1",
         "enabled": false
     },
     {
@@ -341,7 +351,7 @@
     },
     {
         "identifier": "yzane.markdown-pdf",
-        "version": "1.5.0",
+        "version": "2.0.1",
         "enabled": true
     },
     {
