@@ -250,4 +250,7 @@
   "comments.openView": "never",
   "workbench.colorTheme": "monokai-charcoal",
   "chat.viewSessions.orientation": "stacked",
+  "update.mode": "none",
+  "claudeCode.preferredLocation": "panel",
+  "claudeCode.useTerminal": true,
 }
