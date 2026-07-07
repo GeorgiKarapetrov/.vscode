@@ -95,7 +95,7 @@
   // "vsicons.dontShowNewVersionMessage": true,
   "explorer.confirmDelete": false,
   "editor.wordWrapColumn": 144,
-  // "cSpell.language": "en,en-GB,en-US",
+  "cSpell.language": "en,en-GB,en-US",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.insertSpaces": true,
@@ -241,11 +241,14 @@
   "workbench.iconTheme": "material-icon-theme",
   "cSpell.userWords": [
     "DBCI",
+    "EBRD",
+    "Georgi",
     "HANA",
     "HDBAAS",
     "hyperscaler",
     "hyperscalers",
-    "redeployments",
+    "Karapetrov",
+    "redeployments"
   ],
   "comments.openView": "never",
   "workbench.colorTheme": "monokai-charcoal",
@@ -253,4 +256,9 @@
   "update.mode": "none",
   "claudeCode.preferredLocation": "panel",
   "claudeCode.useTerminal": true,
+  "workbench.secondarySideBar.showLabels": false,
+  "cSpell.enabled": false,
+  "cSpell.enabledFileTypes": {
+    "plaintext": true
+  },
 }
