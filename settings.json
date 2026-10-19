@@ -255,9 +255,8 @@
   "chat.viewSessions.orientation": "stacked",
   "update.mode": "none",
   "claudeCode.preferredLocation": "panel",
-  "claudeCode.useTerminal": true,
+  "claudeCode.useTerminal": false,
   "workbench.secondarySideBar.showLabels": false,
-  "cSpell.enabled": false,
   "cSpell.enabledFileTypes": {
     "plaintext": true
   },

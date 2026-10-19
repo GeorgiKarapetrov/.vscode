@@ -16,7 +16,7 @@
     },
     {
         "identifier": "Anthropic.claude-code",
-        "version": "2.1.247",
+        "version": "2.1.301",
         "enabled": true
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "19.0.1",
+        "version": "19.4.0",
         "enabled": true
     },
     {
@@ -81,7 +81,7 @@
     },
     {
         "identifier": "golang.go",
-        "version": "0.56.0",
+        "version": "0.56.1",
         "enabled": true
     },
     {
@@ -131,7 +131,7 @@
     },
     {
         "identifier": "mads-hartmann.bash-ide-vscode",
-        "version": "1.43.0",
+        "version": "1.43.2",
         "enabled": true
     },
     {
@@ -206,17 +206,17 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2026.4.0",
+        "version": "2026.10.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2026.3.1",
+        "version": "2026.4.1",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-python-envs",
-        "version": "1.36.0",
+        "version": "1.40.0",
         "enabled": true
     },
     {
@@ -261,7 +261,7 @@
     },
     {
         "identifier": "PKief.material-icon-theme",
-        "version": "5.38.1",
+        "version": "5.39.0",
         "enabled": true
     },
     {
@@ -281,7 +281,7 @@
     },
     {
         "identifier": "redhat.vscode-yaml",
-        "version": "1.24.0",
+        "version": "2.0.0",
         "enabled": true
     },
     {
@@ -306,17 +306,17 @@
     },
     {
         "identifier": "saoudrizwan.claude-dev",
-        "version": "4.1.16",
-        "enabled": true
+        "version": "4.1.25",
+        "enabled": false
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker",
-        "version": "4.7.3",
+        "version": "4.10.0",
         "enabled": true
     },
     {
         "identifier": "timonwong.shellcheck",
-        "version": "0.39.5",
+        "version": "0.48.1",
         "enabled": true
     },
     {
@@ -331,7 +331,7 @@
     },
     {
         "identifier": "usernamehw.errorlens",
-        "version": "3.28.0",
+        "version": "3.29.0",
         "enabled": true
     },
     {
@@ -346,7 +346,7 @@
     },
     {
         "identifier": "wholroyd.jinja",
-        "version": "0.0.8",
+        "version": "0.0.10",
         "enabled": true
     },
     {
